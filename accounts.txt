@@ -1,0 +1,3 @@
+// here format example 
+
+{"full_name":"userb1ps279h","username":"userb1ps279h","email":"userb1ps279h@gmail.com","password":"Passb1ps279h123","phone":"+628560240060","referral_code":"yourrefercode","country":"ID","birthday":"1998-10-31","miner_active":true,"adt_balance":"1.00000000","max_miners":11,"mining_info":{"active":true,"adt_earned":1,"mining_time_left":86387,"adt_per_hour":0.01}}
